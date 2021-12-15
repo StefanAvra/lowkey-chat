@@ -8,7 +8,7 @@ I used expressjs with socket.io as a server. Client-side it's vanilla JavaScript
 It's deployed on heroku, so you can check it out (Disclaimer: I cannot guarantee, that people will behave so be careful)
 https://lowkey-chat.herokuapp.com/
 
-If you want to deployed it locally instead, follow these instructions:
+If you want to deploy it locally instead, follow these instructions:
 
 Clone this repo. Then install the dependencies:
 
